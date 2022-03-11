@@ -104,7 +104,6 @@
 				B55F8CDC27DBE5A7002F4E32 /* Models */,
 				B55F8CCC27DBE4A2002F4E32 /* MovieSearcherApp.swift */,
 				B55F8CCE27DBE4A2002F4E32 /* ContentView.swift */,
-				B55F8CD027DBE4A3002F4E32 /* Assets.xcassets */,
 				B55F8CD227DBE4A3002F4E32 /* Preview Content */,
 				B55F8CE227DBE7F3002F4E32 /* Utils.swift */,
 			);
@@ -143,6 +142,7 @@
 				B55F8CE927DBEB02002F4E32 /* movie_info.json */,
 				B55F8CEA27DBEB02002F4E32 /* movie_list.json */,
 				B55F8CEB27DBEB02002F4E32 /* search_movie.json */,
+				B55F8CD027DBE4A3002F4E32 /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
