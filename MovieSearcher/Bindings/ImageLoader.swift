@@ -12,6 +12,8 @@ private let _imageCache = NSCache<AnyObject, AnyObject>()
 
 class ImageLoader: ObservableObject {
     
+    // Imp
+    
     @Published var image: UIImage?
     @Published var isLoading = false
     
