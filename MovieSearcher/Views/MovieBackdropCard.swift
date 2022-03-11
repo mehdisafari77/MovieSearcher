@@ -24,7 +24,7 @@ struct MovieBackdropCard: View {
                 }
             }
             .aspectRatio(16/9, contentMode: .fit)
-            .cornerRadius(8)
+            .cornerRadius(15)
             .shadow(radius: 4)
             
             Text(movie.title)
