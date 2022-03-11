@@ -30,6 +30,7 @@
 		B55F8D0227DBEDB5002F4E32 /* MovieSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0127DBEDB5002F4E32 /* MovieSearchView.swift */; };
 		B55F8D0427DBEDD3002F4E32 /* MovieListState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */; };
 		B55F8D0627DBEDEE002F4E32 /* MovieDetailState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */; };
+		B55F8D0827DBEE0E002F4E32 /* MovieSearchState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0727DBEE0E002F4E32 /* MovieSearchState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		B55F8D0127DBEDB5002F4E32 /* MovieSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSearchView.swift; sourceTree = "<group>"; };
 		B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListState.swift; sourceTree = "<group>"; };
 		B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailState.swift; sourceTree = "<group>"; };
+		B55F8D0727DBEE0E002F4E32 /* MovieSearchState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSearchState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 				B55F8CF327DBEBE6002F4E32 /* ImageLoader.swift */,
 				B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */,
 				B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */,
+				B55F8D0727DBEE0E002F4E32 /* MovieSearchState.swift */,
 			);
 			path = Bindings;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				B55F8CFE27DBED73002F4E32 /* LoadingView.swift in Sources */,
 				B55F8CE527DBEA42002F4E32 /* Movie+Stub.swift in Sources */,
 				B55F8CFA27DBED2E002F4E32 /* MoviePosterCarouselView.swift in Sources */,
+				B55F8D0827DBEE0E002F4E32 /* MovieSearchState.swift in Sources */,
 				B55F8CF427DBEBE6002F4E32 /* ImageLoader.swift in Sources */,
 				B55F8CDB27DBE5A4002F4E32 /* Movie.swift in Sources */,
 				B55F8D0427DBEDD3002F4E32 /* MovieListState.swift in Sources */,
