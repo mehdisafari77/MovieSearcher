@@ -29,6 +29,7 @@
 		B55F8D0027DBED97002F4E32 /* MovieDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8CFF27DBED97002F4E32 /* MovieDetailView.swift */; };
 		B55F8D0227DBEDB5002F4E32 /* MovieSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0127DBEDB5002F4E32 /* MovieSearchView.swift */; };
 		B55F8D0427DBEDD3002F4E32 /* MovieListState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */; };
+		B55F8D0627DBEDEE002F4E32 /* MovieDetailState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		B55F8CFF27DBED97002F4E32 /* MovieDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailView.swift; sourceTree = "<group>"; };
 		B55F8D0127DBEDB5002F4E32 /* MovieSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieSearchView.swift; sourceTree = "<group>"; };
 		B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieListState.swift; sourceTree = "<group>"; };
+		B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 			children = (
 				B55F8CF327DBEBE6002F4E32 /* ImageLoader.swift */,
 				B55F8D0327DBEDD3002F4E32 /* MovieListState.swift */,
+				B55F8D0527DBEDEE002F4E32 /* MovieDetailState.swift */,
 			);
 			path = Bindings;
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				B55F8D0027DBED97002F4E32 /* MovieDetailView.swift in Sources */,
 				B55F8D0227DBEDB5002F4E32 /* MovieSearchView.swift in Sources */,
 				B55F8CCF27DBE4A2002F4E32 /* ContentView.swift in Sources */,
+				B55F8D0627DBEDEE002F4E32 /* MovieDetailState.swift in Sources */,
 				B55F8CCD27DBE4A2002F4E32 /* MovieSearcherApp.swift in Sources */,
 				B55F8CF127DBEBD3002F4E32 /* MovieBackdropCard.swift in Sources */,
 				B55F8CDF27DBE66E002F4E32 /* MovieService.swift in Sources */,
