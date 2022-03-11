@@ -10,7 +10,7 @@ A movie searcher and database that connectd to th TMDB database in order to disp
 * [TMDB-API](https://www.themoviedb.org/)
 
 ## Gif of App
-![Gif](./MovieSearcher/Resources/Assets.xcassets/gif.dataset/gif.gif)
+![Gif](./MovieSearcher/Resources/Assets.xcassets/gif.dataset/gif1.gif)
 
 ## Installation Steps For Local Running
 1. Clone project.
