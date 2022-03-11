@@ -102,10 +102,8 @@
 				B55F8CE827DBEAE6002F4E32 /* Resources */,
 				B55F8CDD27DBE650002F4E32 /* Services */,
 				B55F8CDC27DBE5A7002F4E32 /* Models */,
-				B55F8CCC27DBE4A2002F4E32 /* MovieSearcherApp.swift */,
-				B55F8CCE27DBE4A2002F4E32 /* ContentView.swift */,
+				B55F8D1027DBF144002F4E32 /* Shared */,
 				B55F8CD227DBE4A3002F4E32 /* Preview Content */,
-				B55F8CE227DBE7F3002F4E32 /* Utils.swift */,
 			);
 			path = MovieSearcher;
 			sourceTree = "<group>";
@@ -182,6 +180,16 @@
 				B55F8D0E27DBEE81002F4E32 /* SearchBar.swift */,
 			);
 			path = UIKitViews;
+			sourceTree = "<group>";
+		};
+		B55F8D1027DBF144002F4E32 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				B55F8CCC27DBE4A2002F4E32 /* MovieSearcherApp.swift */,
+				B55F8CCE27DBE4A2002F4E32 /* ContentView.swift */,
+				B55F8CE227DBE7F3002F4E32 /* Utils.swift */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
