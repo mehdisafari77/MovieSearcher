@@ -11,7 +11,7 @@ struct MovieSearchView: View {
     
     @ObservedObject var movieSearchState = MovieSearchState()
     
-    // 
+    //
     var body: some View {
         NavigationView {
             List {
