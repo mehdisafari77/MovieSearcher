@@ -15,6 +15,7 @@
 		B55F8CDF27DBE66E002F4E32 /* MovieService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8CDE27DBE66E002F4E32 /* MovieService.swift */; };
 		B55F8CE127DBE779002F4E32 /* MovieStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8CE027DBE779002F4E32 /* MovieStore.swift */; };
 		B55F8CE327DBE7F3002F4E32 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8CE227DBE7F3002F4E32 /* Utils.swift */; };
+		B55F8CE527DBEA42002F4E32 /* Movie+Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55F8CE427DBEA42002F4E32 /* Movie+Stub.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		B55F8CDE27DBE66E002F4E32 /* MovieService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieService.swift; sourceTree = "<group>"; };
 		B55F8CE027DBE779002F4E32 /* MovieStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieStore.swift; sourceTree = "<group>"; };
 		B55F8CE227DBE7F3002F4E32 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		B55F8CE427DBEA42002F4E32 /* Movie+Stub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Movie+Stub.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		B55F8CDC27DBE5A7002F4E32 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				B55F8CE427DBEA42002F4E32 /* Movie+Stub.swift */,
 				B55F8CDA27DBE5A4002F4E32 /* Movie.swift */,
 			);
 			path = Models;
@@ -168,6 +171,7 @@
 				B55F8CCF27DBE4A2002F4E32 /* ContentView.swift in Sources */,
 				B55F8CCD27DBE4A2002F4E32 /* MovieSearcherApp.swift in Sources */,
 				B55F8CDF27DBE66E002F4E32 /* MovieService.swift in Sources */,
+				B55F8CE527DBEA42002F4E32 /* Movie+Stub.swift in Sources */,
 				B55F8CDB27DBE5A4002F4E32 /* Movie.swift in Sources */,
 				B55F8CE127DBE779002F4E32 /* MovieStore.swift in Sources */,
 				B55F8CE327DBE7F3002F4E32 /* Utils.swift in Sources */,
